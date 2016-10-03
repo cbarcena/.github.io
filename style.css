@@ -7,9 +7,9 @@ body{
 	background:#000;
 }
 h1{
-	padding-top:10xp;
+	padding-top:10px;
 	padding-left:85px;
-	letter-spacing:3px;
+	letter-spacing:1em;
 	color:white;
-	font-family:helvetica;
+	font-family:arial;
 }
