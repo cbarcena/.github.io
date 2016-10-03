@@ -8,6 +8,8 @@ body{
 }
 h1{
 	padding-top:10xp;
-	padding-left:75px;
+	padding-left:85px;
+	letter-spacing:3px;
 	color:white;
+	font-family:helvetica;
 }
