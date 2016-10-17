@@ -5,6 +5,7 @@ body{
 	margin-right:auto;
 	margin-left:auto;
 	background:#000;
+	border:#151515 solid 10px;
 }
 h1{
 	padding-top:10px;
@@ -12,7 +13,4 @@ h1{
 	letter-spacing:1em;
 	color:white;
 	font-family:arial;
-}
-img{
-	border:#151515 solid 10px;
 }
