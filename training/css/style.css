@@ -5,3 +5,9 @@
 	height:200px;
 
 }
+@media (max-width: 767px) {
+	.img responsive {
+		max-width:50%
+		min-wdth:300px;
+	}
+}
